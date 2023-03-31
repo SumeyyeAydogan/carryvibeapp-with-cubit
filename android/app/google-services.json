@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879195820130",
+    "project_id": "carryvibe-c93f7",
+    "storage_bucket": "carryvibe-c93f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879195820130:android:2ea6c10d5dd2e46037813b",
+        "android_client_info": {
+          "package_name": "app.carryvibe.com.carryvibeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879195820130-53d96ecna4s0k57phuqrdi9dgg55u0vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN6mXU4Jj0XJdmq5UeLz3GHS61m7ifQnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879195820130-53d96ecna4s0k57phuqrdi9dgg55u0vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
